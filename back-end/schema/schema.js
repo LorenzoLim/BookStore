@@ -1,6 +1,6 @@
 const graphql = require('graphql')
 const_ = require('lodash')
-const {GraphQLObjectType, GraphQLString} = graphql
+const {GraphQLObjectType, GraphQLString, GraphQLSchema} = graphql
 
 var books = [
   {name: 'Name of the Wind', genre: 'Fantasy', id: '1'},
