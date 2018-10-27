@@ -12,6 +12,11 @@
     "express": "^4.16.3",
     "express-graphql": "^0.6.12",
     "graphql": "^14.0.0",
+    "lodash": "^4.17.11",
+    "nodemon": "^1.18.4",
     "npm": "^6.4.1"
+  },
+  "devDependencies": {
+    "prettier": "1.14.3"
   }
 }
