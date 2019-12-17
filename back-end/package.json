@@ -18,7 +18,7 @@
     "lodash": "^4.17.11",
     "mongoose": "^5.3.7",
     "nodemon": "^1.18.7",
-    "npm": "^6.4.1"
+    "npm": "^6.13.4"
   },
   "devDependencies": {
     "prettier": "1.14.3"
